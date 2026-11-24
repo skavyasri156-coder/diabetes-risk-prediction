@@ -1,6 +1,7 @@
 # Diabetes Risk Predictor
 
 **Live Demo:** (add your Streamlit link here after deploying)
+**Live Demo:** https://https://diabetes-risk-kavya.streamlit.app
 
 An educational machine learning web app that estimates diabetes risk from
 health measurements, built with Python, scikit-learn and Streamlit.
